@@ -1,3 +1,4 @@
-
+line added
+another line added
 Added something 
 This is a test file
