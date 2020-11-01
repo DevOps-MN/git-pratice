@@ -1,1 +1,2 @@
+another line added to file4
 THis is file4
